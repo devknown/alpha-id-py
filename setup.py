@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='alpha-id-py',
-    version='0.0.1',
+    version='0.0.3',
     description='Python library for generating short alphanumeric strings from integers',
     long_description='Python library that allows you to generate short alphanumeric strings from integers. It can be useful for creating compact, unique, and obfuscated identifiers.',
     author='Hassan Azzi',
