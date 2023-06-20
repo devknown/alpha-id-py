@@ -1,3 +1,18 @@
+<h4 align="center">AlphaID - Convert any integer to a short alphanumeric version</h4>
+
+<p align="center">
+   <a href="https://github.com/devknown/alpha-id-py/releases">
+   <img alt="Release" src="https://img.shields.io/github/v/release/devknown/alpha-id-py">
+   <a href="#">
+   <img alt="Tests" src="https://github.com/devknown/alpha-id-py/actions/workflows/tests.yml/badge.svg">
+   <a href="#">
+   <img alt="Build" src="https://github.com/devknown/alpha-id-py/actions/workflows/build.yml/badge.svg">
+   <a href="https://github.com/devknown/alpha-id-py/blob/main/LICENSE">
+   <img alt="License" src="https://img.shields.io/github/license/devknown/alpha-id-py">
+   <a href="https://pypi.org/project/alpha-id-py/">
+   <img alt="Python version" src="https://img.shields.io/pypi/pyversions/alpha-id-py.svg">
+</p>
+
 # alpha-id-py
 
 `alpha-id-py` is a Python library that allows you to generate short alphanumeric strings from integers. It can be useful for creating compact, unique, and obfuscated identifiers.
