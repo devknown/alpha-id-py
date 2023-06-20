@@ -1,0 +1,16 @@
+test.bat
+build.bat
+deploy.bat
+__pycache__/
+*.py[cod]
+*$py.class
+pip-log.txt
+pip-delete-this-directory.txt
+.idea/
+.vscode/
+*.pyc
+.DS_Store
+dist/
+build/
+*.egg-info/
+*.egg
