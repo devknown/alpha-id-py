@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://github.com/devknown/alpha-id-py/releases">
-   <img alt="Release" src="https://img.shields.io/github/v/release/devknown/alpha-id-py">
+   <img alt="Release" src="https://img.shields.io/github/v/release/devknown/alpha-id-py?v=1">
    <a href="#">
    <img alt="Tests" src="https://github.com/devknown/alpha-id-py/actions/workflows/tests.yml/badge.svg">
    <a href="#">
