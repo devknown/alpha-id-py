@@ -21,7 +21,7 @@ pip install alpha-id-py
 Simple usage looks like this:
 
 ```python
-from alpha_id import AlphaID
+from alpha_id.alpha_id import AlphaID
 
 alpha_id = AlphaID()
 
@@ -39,7 +39,7 @@ print(original_number)
 You can set a global key that will be used for encoding and decoding if no specific key is provided. This can be done using the `config` method:
 
 ```python
-from alpha_id import AlphaID
+from alpha_id.alpha_id import AlphaID
 
 alpha_id = AlphaID()
 alpha_id.config('my_key')
