@@ -15,6 +15,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip setuptools wheel
-    - name: Build the alpha_id package
+    - name: Perform tests
       run : |
         python -m unittest tests.test_alpha_id
