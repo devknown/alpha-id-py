@@ -18,7 +18,7 @@
 `alpha-id-py` is a Python library that allows you to generate short alphanumeric strings from integers. It can be useful for creating compact, unique, and obfuscated identifiers.
 
 ## AlphaID Library Versions
-
+These versions should all function harmoniously, allowing for encoding in one language and decoding in another.
 - [PHP Version](https://github.com/devknown/alpha-id)
 - [JavaScript Version](https://github.com/devknown/alpha-id-js)
 - [Python Version](https://github.com/devknown/alpha-id-py)
